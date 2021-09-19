@@ -4,7 +4,7 @@
 
   Conectando um refletor led RGB DMX com Arduino Uno
 
-  No exemplo foram usados os seguintes dispositos:
+  No exemplo foram usados os seguintes dispositivos:
   - Arduino Uno;
   - módulo DMX VMA432 da Velleman (https://www.velleman.eu/products/view/?id=439222);
   - refletor Ibiza Light PAR-MINI-RGB3;
