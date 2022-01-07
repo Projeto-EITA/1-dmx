@@ -20,7 +20,7 @@
   - biblioteca MIDI de Francois Best (https://github.com/FortySevenEffects/arduino_midi_library).
 
   Desenvolvido por Artur Cordeiro
-  Cariri, CE, 06.02.2022.
+  Cariri, CE, 06.01.2022.
 */
 
 /*
